@@ -1,0 +1,39 @@
+{
+  "homepage": "http://notoriousarun.github.io/xWatch",
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+    "graphql": "15.3.0",
+    "graphql-request": "3.1.0",
+    "match-sorter": "4.2.1",
+    "react": "16.13.1",
+    "react-data-table-component": "6.11.3",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3",
+    "styled-components": "5.2.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
