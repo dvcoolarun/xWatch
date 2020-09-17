@@ -11,7 +11,7 @@
     * "match-sorter"
     * "react"
     * "react-data-table-component"
-    *  "styled-components": "5.2.0"
+    * "styled-components"
 
 ## Getting started
     Clone this repository
