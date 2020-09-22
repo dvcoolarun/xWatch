@@ -2,8 +2,7 @@
   SpaceX LaunchPad with all the stats (#GraphQL API)
   
   Problem
-    -- List View shall show a list of the launch pads available with SpaceX. using GraphQL API: https://api.spacex.land/graphql/
-    -- If one clicks on a link in the Master View, it shall open a detail view with the "vehicles launched" including the success rate percentage for each of those vehicles.
+    ** List View shall show a list of the launch pads available with SpaceX. using GraphQL API: https://api.spacex.land/graphql If one clicks on a link in the Master View, it shall open a detail view with the "vehicles launched" including the success rate percentage for each of those vehicles. **
 
   [notoriousarun.github.io/xWatch](https://notoriousarun.github.io/xWatch)
   
