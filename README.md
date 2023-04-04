@@ -6,7 +6,7 @@
     Using GraphQL API: https://api.spacex.land/graphql If one clicks on a link in the Master View. 
     It shall open a detail view with the "vehicles launched" including the success rate percentage for each of those vehicles.
 
-  [notoriousarun.github.io/xWatch](https://dvcoolarun.github.io/xWatch)
+  [dvcoolarun.github.io/xWatch](https://dvcoolarun.github.io/xWatch)
   
 ![ScreenShot](https://repository-images.githubusercontent.com/296219135/a39bbc80-f8d0-11ea-9ff4-bd04d9ed6c96)
 
